@@ -1,0 +1,12 @@
+* {
+    border: 5px dotted grey;
+}
+h1 {
+    color: blue;
+}
+h2 {color: aqua;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
