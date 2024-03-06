@@ -1,12 +1,19 @@
 * {
-    border: 5px dotted grey;
-}
-h1 {
-    color: blue;
-}
-h2 {color: aqua;
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-p {
-    font-family: Arial, Helvetica, sans-serif;
+h1 {color: red;
+}
+
+h2 {color: black;
+}
+
+h3{color: coral;
+}
+
+p {font-family: sans-serif;
+}
+
+blockquote li{background-color: black;
 }
